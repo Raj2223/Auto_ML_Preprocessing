@@ -1,4 +1,4 @@
-# :zap: ML Preprocessor CLI
+# :zap: Automated ML Preprocessing
 
 The CLI made to preprocess the database and save your **time**:clock1:
 
@@ -22,23 +22,16 @@ The CLI made to preprocess the database and save your **time**:clock1:
 
 ## Run
 
-- Clone this Repository: `git clone https://github.com/utkryuk/ML-Preprocessor-CLI.git`
+- Clone this Repository: `git clone https://github.com/Raj2223/Auto_ML_Preprocessing.git`
 - `cd ML-Preprocessor-CLI/`
 - `pip3 install -r requirements.txt`
 - Now run, python3 `main.py` [Dataset's Path]
 - Ex: `python3 main.py dataset.csv`
 - Then you will see the below home screen.
 
-## :camera: Screenshots
-
-<p align="center">
-    <img alt="Home screen" src="./screenshots/homeScreen.png" width="80%"/>
-</p>
 
 ## Future Scope
 
 - Implementing GUI of this project.
 - Implement Undo and Redo for the Database.
 - Implement other preprocessing steps.
-
-#### If you have any questions, just let me know [here.](mailto:utkryuk@gmail.com)
